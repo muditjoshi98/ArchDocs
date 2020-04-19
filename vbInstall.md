@@ -2,7 +2,7 @@
 
 ### Installation is done in UEFI mode.
   
-Most of the steps will be as same as install.md file.
+Most of the steps will be as same as [install.md](install.md) file.
 
 1. Connect to a network
     1. `dhcpcd` if wired nework is not working.
