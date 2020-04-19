@@ -144,7 +144,8 @@ call plug#end()
 * Edit `zathura_setting`, `colors.sh` and run `zathura-colors.sh` to gen `zathurarc`
 
 ## Other small programs and things ...
-* [picom](https://github.com/yshui/picom) - Compositor for X11
+* [picom](https://github.com/tryone144/picom/) - Compositor for X11, used tryone's fork
+* [dunst](https://dunst-project.org/) - notification daemon
 * Used [pywal](https://github.com/dylanaraps/pywal/) to generate basic color files and change color scheme accoring to requirement.
 * `PS4='+$BASH_SOURCE> ' BASH_XTRACEFD=7 bash -xl 7> file_name` to dry run bash initialization to check where which variable is intialized.
 * `feh` as image viewer and wallpaper setter.
