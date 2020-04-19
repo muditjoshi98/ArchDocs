@@ -5,6 +5,12 @@
 * sxhkd stucks on repeated config reload.
 * If auto-starting anything via bspwm (especially sxhkd) remember to kill it's previous instance first cause on bspwm restart an new instance of that program will start which reduce performance.
 
+## Disk Management
+
+* For disk analysis `duc`
+* `udisk2`, `udiskie` and `ntfs-3g` for external device mounting.
+* For more details refer to [cleanArch.md](cleanArch.md)
+
 ## Fonts
 * Noto-Fonts and Noto-Font-Emoji
 * Hack Nerd Patched Font
@@ -20,14 +26,7 @@
 * Install `pacman-contrib` package.
 * Generated list from https://www.archlinux.org/mirrorlist/
 * Run `rankmirrors -n *no of mirrors*` command on list to generate n fastest servers.
-* Replace it with default mirror list `/etc/pacman.d/mirrorlist
-`2
-
-## Disk Management
-
-* For disk analysis `duc`
-* `udisk2`, `udiskie` and `ntfs-3g` for external device mounting.
-* For more details refer to [cleanArch.md]
+* Replace it with default mirror list `/etc/pacman.d/mirrorlist`
 
 ## [Node JS](https://github.com/polybar/polybar)
 
