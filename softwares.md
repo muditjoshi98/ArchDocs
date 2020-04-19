@@ -11,6 +11,12 @@
 * `udisk2`, `udiskie` and `ntfs-3g` for external device mounting.
 * For more details refer to [cleanArch.md](cleanArch.md)
 
+## Firefox
+
+* userChrome theme used : https://github.com/eduardhojbota/moonlight-userChrome
+* add user chrome in profile.
+* tabliss
+
 ## Fonts
 * Noto-Fonts and Noto-Font-Emoji
 * Hack Nerd Patched Font
